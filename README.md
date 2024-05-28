@@ -1,4 +1,4 @@
-### Angry Oxide running on Raspberry Pi Zero W - Basic Step-by-Step Guide
+### Angry Oxide running on Raspberry Pi Zero 2 W - Basic Step-by-Step Guide
 
 #### 1. Setting Up Your Hardware
 - **Hardware Components**:
