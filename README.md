@@ -153,22 +153,7 @@
   sudo systemctl start angryoxide.service
   ```
 
-#### 6. Upload Your Project to GitHub
-- **Create a New Repository**:
-  - Go to [GitHub](https://github.com) and create a new repository.
-  - Name your repository and provide a description.
 
-- **Clone the Repository Locally**:
-  ```sh
-  git clone https://github.com/your-username/your-repository.git
-  cd your-repository
-  ```
-
-- **Add Project Files**:
-  - Copy your `epaper_display.py` script and the `systemd` service files into the repository directory.
-  - Create a `README.md` file with the following content:
-
-          
 
 
 
